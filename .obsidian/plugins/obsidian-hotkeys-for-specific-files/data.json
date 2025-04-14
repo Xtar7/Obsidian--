@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "useMoment": false,
+      "file": "Inbox/Website/Cubox.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Inbox/Website/文本处理-textce.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Inbox/Website/表格转换-tableconvert.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Inbox/Website/carbon 代码高亮分享.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Inbox/Website/vika.md"
+    },
+    {
+      "useMoment": false,
+      "file": "Template/🎵Music.md"
+    },
+    {
+      "useMoment": false,
+      "file": "home.md"
+    }
+  ],
+  "useExistingPane": false,
+  "useHoverEditor": false
+}
